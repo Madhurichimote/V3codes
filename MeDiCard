@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script
+      type="text/javascript"
+      src="https://codesandbox.io/public/sse-hooks/sse-hooks.f742b80f43c5a2e0e619b0d97b5886cd.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://codesandbox.io/static/js/banner.be879265d.js"
+    ></script>
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Painting Board</title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="styles.css" />
+    <script
+      crossorigin
+      type="text/javascript"
+      src="https://codesandbox.io/static/js/watermark-button.be960f43b.js"
+    ></script>
+    <script
+      defer
+      src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993"
+      integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA=="
+      data-cf-beacon='{"rayId":"796bb7c7d8a217b6","token":"7449176f14aa420c959831edd48bd5b7","version":"2022.11.3","si":100}'
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
